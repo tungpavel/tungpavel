@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Pavel from Czechia<br><br>- 🔭 I’m working as Data Analyst<br>- 📚 I'm currently learning ML/AI<br>- ⚡ In my free time I geek out</p>
+<p align="left">I'm Pavel from Czechia<br><br>- 🔭 I’m working as Data Analyst<br>- 📚 I'm currently learning ML/AI<br>- ⚡ In my free time I play MTG</p>
 
 ###
 
